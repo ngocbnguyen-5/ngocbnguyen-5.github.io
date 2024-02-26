@@ -81,14 +81,14 @@ header, footer {
 
 @font-face {
     font-family: montserrat;
-    src: url(/ngocbnguyen-5.github.io/school-site/fonts/montserrat-regular.ttf) format('truetype');
+    src: url(/fonts/montserrat-regular.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: josefinslab;
-    src: url(/ngocbnguyen-5.github.io/school-site/fonts/josefinslab-regular.ttf) format('truetype');
+    src: url(/fonts/josefinslab-regular.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
 }
